@@ -1,0 +1,1 @@
+print(2**3) #double asterisks use to give exponent
